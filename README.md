@@ -11,11 +11,13 @@
 
 
 ## Tech Used
-Front-End: HTML, CSS, JavaScript, React
-Back-End: Node.js
-Tools: Figma
-Run Project
-Clone the Repository
+- Front-End: HTML, CSS, JavaScript, React
+- Back-End: Python
+- Tools: VS Code
+
+
+
+## Run Project
 
 
 
