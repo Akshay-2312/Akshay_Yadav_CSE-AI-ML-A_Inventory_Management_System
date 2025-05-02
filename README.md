@@ -9,17 +9,15 @@
 
 ## Video
 
-
 ## Tech Used
-- Python 
-
-
+- Python,SQlite3,tkinter
+- Application = VS Studio
 
 ## Run Project
 - UserName = admin
 - Password = admin123
-- First copy all the Code in VS Studio and the run main file
-- https://1drv.ms/u/c/206459483a783c75/ESgtZIe2bcxBvF0jkMGkuPEBp5tszHrMySKoifZbTMi8JA?e=SnUrMK
+- To use the application run the Main file
+
 
 
 
