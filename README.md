@@ -19,6 +19,7 @@
 - UserName = admin
 - Password = admin123
 - First copy all the Code in VS Studio and the run main file
+- https://1drv.ms/u/c/206459483a783c75/ESgtZIe2bcxBvF0jkMGkuPEBp5tszHrMySKoifZbTMi8JA?e=SnUrMK
 
 
 
