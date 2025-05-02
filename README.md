@@ -11,7 +11,7 @@
 
 ## Tech Used
 - Python,SQlite3,tkinter
-- Application = VS Studio
+- Application - VS Studio
 
 ## Run Project
 - UserName = admin
