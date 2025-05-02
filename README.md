@@ -16,8 +16,11 @@
 
 
 ## Run Project
-- UserNmae = admin
+- UserName = admin
 - Password = admin123
+- First copy all the Code in VS Studio and the run main file
+
+
 
 
 
