@@ -16,6 +16,8 @@
 
 
 ## Run Project
+- UserNmae = admin
+- Password = admin123
 
 
 
