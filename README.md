@@ -1,10 +1,10 @@
-Inventory Management System
-TranslateX is a web app for real-time text translation across 10 languages using the Google Translate API.
+## Inventory Management System
+
 
 Team
-Rishu Kumar – 2401730075
-Krish Sinha – 2401730112
-Bhavya Agarwal – 2401730012
+Harshit Rathi - 2401730109
+Akashy Yadav - 2401730129
+
 Gagan Kumar Goyal – 2401730137
 Video
 Tech Used
