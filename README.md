@@ -11,7 +11,7 @@
 
 
 ## Tech Used
-- Front-End: HTML, CSS, JavaScript, React
+- Front-End: HTML, CSS, JavaScript
 - Back-End: Python
 - Tools: VS Code
 
