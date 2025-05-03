@@ -8,7 +8,8 @@
 - Shreyanas Negi - 2401730007
 
 ## Video
-
+- https://drive.google.com/drive/folders/1s93lRulSU_iNFit5I6WJ72Er6Kubptpr
+  
 ## Tech Used
 - Python,SQlite3,tkinter
 - Application - VS Studio
