@@ -18,6 +18,7 @@
 - UserName = admin
 - Password = admin123
 - To use the application run the Main file
+- Required Librarys- tk,sqlite3,pandas,fpdf,openpyxl
 
 
 
