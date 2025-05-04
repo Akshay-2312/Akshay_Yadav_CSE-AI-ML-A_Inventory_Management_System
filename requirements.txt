@@ -1,5 +1,0 @@
-tk
-sqlite3
-pandas
-fpdf
-openpyxl
