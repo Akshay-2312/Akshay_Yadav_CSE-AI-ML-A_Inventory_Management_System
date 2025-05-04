@@ -1,0 +1,4 @@
+tk
+pandas
+fpdf
+openpyxl
