@@ -18,4 +18,4 @@ An Inventory Management System (IMS) is a software application or set of tools d
   - Username - admin
   - Password - admin123
   - To run the application just run the Main file
-  - Librarys to import - 
+  - Librarys to import - tk,pandas,fpdf,openpyxl
